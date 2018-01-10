@@ -1,0 +1,8 @@
+{
+    "name": "BitZeny",
+    "symbol": "ZNY",
+    "algorithm": "yescrypt",
+    "yescryptParam": "yescryptr8"
+    "peerMagic": "daa5bef9",
+    "peerMagicTestNet": "59454e59"
+}

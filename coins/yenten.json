@@ -1,0 +1,8 @@
+{
+    "name": "Yenten",
+    "symbol": "YTN",
+    "algorithm": "yescrypt",
+    "yescryptParam": "yescryptr16",
+    "peerMagic": "ad5aeb9f",
+    "peerMagicTestNet": "9554e495"
+}
